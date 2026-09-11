@@ -1,0 +1,9 @@
+{
+  "name": "Yama Technologies",
+  "short_name": "Yama",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9faf8",
+  "theme_color": "#2a4f4d",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f9faf8"/>
+  <circle cx="1000" cy="80" r="420" fill="#dcefe9"/>
+  <rect x="80" y="80" width="72" height="72" rx="16" fill="#2a4f4d"/>
+  <path d="M100 100h9l7 12 7-12h9l-12 20v11h-9v-11z" fill="#f9faf8"/>
+  <text x="80" y="300" font-family="Space Grotesk, Arial, sans-serif" font-size="72" font-weight="700" fill="#1f3634">Software, built in Kathmandu,</text>
+  <text x="80" y="385" font-family="Space Grotesk, Arial, sans-serif" font-size="72" font-weight="700" fill="#2a6b66">for anywhere.</text>
+  <text x="80" y="520" font-family="IBM Plex Mono, monospace" font-size="26" fill="#b98a2e" letter-spacing="4">YAMA TECHNOLOGIES · SOFTWARE · RESEARCH · yama.com.np</text>
+</svg>
